@@ -12,8 +12,9 @@ public class FirstProject {
     boolean isDriver = true;
 
         System.out.println(login);
-        System.out.println(password);
+        System.out.println(number1);
         System.out.println(percent);
         System.out.println(isDriver);
     }
 }
+
